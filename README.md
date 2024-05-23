@@ -1,4 +1,4 @@
-![Screenshot 2024-05-23 104116](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/be5a7ecb-5091-480d-a0df-c9ae7ec7d564)# Technical Support Analysis Onyx Data May2024 Challenge
+# Technical Support Analysis Onyx Data May2024 Challenge
 
 ## Created & Analyzed by Saddam Ansari @Aspiring Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
 
@@ -115,6 +115,7 @@ Another doughnut chart reveals that:
 #
 
 ### Monthly Ticket Volume Trend
+
 ![Screenshot 2024-05-23 084914](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/af8ce89b-b172-4fa7-9e08-fb6ecc98ea24)
 
 A line chart was utilized to visualize the trend in ticket volumes over the months, revealing the following insights:
@@ -213,6 +214,7 @@ These insights provide an understanding of the urgency levels of support request
 #
 
 ### Before diving into SLA-based insights, it's important to understand the following key concepts:
+
 ![Screenshot 2024-05-23 092100](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/93a82a10-b509-410b-aa8d-0d3614d1e21e)
 #
 
@@ -221,6 +223,7 @@ These insights provide an understanding of the urgency levels of support request
 # Investigation of First Response Time
 
 ## The average first response time is observed to be 26.07 minutes.
+
 ![Screenshot 2024-05-23 094036](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/e2a63aa1-dc66-440f-a0d5-e69a1e61127c)
 
 ### Average First Response Time against SLA:
@@ -259,11 +262,13 @@ In terms of First Response Time by Ticket Source within SLA, we observe that:
 
 # Investigation of Ticket Resolution Time:
 ## The average ticket resolution time is observed to be 33.25 Hours.
+
 ![Screenshot 2024-05-23 094828](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/4bcf5c82-c6da-4ef6-9bca-4f98683c6fd4)
 #
 
 
 ### The average ticket resolution time against SLA reveals the following:
+
 ![Screenshot 2024-05-23 094940](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/11868178-d0ad-4051-aca8-c599913d2f96)
 
  * **Within SLA**: The average ticket resolution time within the **SLA is 33.51 hours**.
@@ -273,6 +278,7 @@ These findings provide valuable insights into the efficiency of the support team
 #
 
 ### When investigating the impact of Ticket Priority on ticket resolution time (hours), the following observations are made:
+
 ![Screenshot 2024-05-23 100615](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/e6ba8432-f7a9-4592-b8a8-63aa41d33728)
 
  * **Within SLA:** Upon examining resolution times within SLA by priority level, there isn't a significant difference. Medium priority tickets take slightly longer to resolve compared to high and low priority tickets.
@@ -287,6 +293,7 @@ These findings indicate that while there isn't a substantial difference in resol
 #
 
 ### The analysis of Ticket Resolution Time (hours) based on Ticket Source reveals the following insights:
+
 ![Screenshot 2024-05-23 100626](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/f12c5b5c-e2e8-4b34-893b-7f9db05bb172)
 
 ### Within SLA:
@@ -307,6 +314,7 @@ For tickets where the SLA was violated:
 
 ## Distribution of Tickets by Country and Topic
 The purpose of this analysis is to explore whether there is any relationship between specific topics and countries. Let's delve into our findings:
+
 ![Screenshot 2024-05-23 101804](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/842c3c69-6667-4418-bfd2-b3698325cf5f)
 
 #### Insights:
@@ -340,19 +348,23 @@ These insights are presented in separate sections for each agent, allowing for a
 
 For a more detailed view, please visit the live dashboard or refer to the image provided below.
 👇
+
 ![Screenshot 2024-05-23 103722](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/d6dd8e4f-2ba4-487a-aaba-7d4dcf708e21)
 #
 
 ### The overall average rating across all agents
+
 ![Screenshot 2024-05-23 103901](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/bc5552ef-99bd-4029-a84d-a9ebe110637b)
 
 ### Percentage of Tickets got First Response within SLA
+
 ![Screenshot 2024-05-23 104116](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/0126c017-c2b5-4568-8998-f84b5fe42022)
 
 The percentage of tickets that received their first response within the Service Level Agreement (SLA) stands at 86.7%. This metric indicates the efficiency of the support team in adhering to response time commitments outlined in the SLA
 #
 
 ##3 Percentage of Tickets Resolved Within SLA
+
 ![Screenshot 2024-05-23 104126](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/9707cd9a-0e9d-4c16-b597-7269fe13bb5f)
 
 The analysis reveals that approximately 64.4% of tickets were resolved within the Service Level Agreement (SLA) timeframe. This metric serves as a key indicator of the efficiency and effectiveness of the support team in meeting customer expectations and service standards.
@@ -361,6 +373,7 @@ The analysis reveals that approximately 64.4% of tickets were resolved within th
 
 ### Rating by Topic
 The purpose of this analysis is to determine which topics have the highest customer satisfaction ratings.
+
 ![Screenshot 2024-05-23 104416](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/a67a9b1a-2ee9-46b5-b1ea-01efbb7c74f5)
 
 #### Insights:
@@ -377,30 +390,35 @@ Users can further drill down into the ratings based on product group to gain dee
 #
 
 ### Rating by Support Level
+
 ![Screenshot 2024-05-23 104428](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/b99168a3-fa08-4c40-b5f8-36b124c2408b)
 
 Tier 1 support has a slightly higher rating of 3.54 compared to Tier 2 support, which has a rating of 3.41.
 #
 
 ### Rating by Priority
+
 ![Screenshot 2024-05-23 104438](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/bda474fc-766d-48cb-ba94-6b064a6923f0)
 
 High priority tickets have the highest rating of 3.66, followed by medium priority tickets with a rating of 3.54, and low priority tickets with the lowest rating of 3.44.
 #
 
 ### Rating by Agent Group
+
 ![Screenshot 2024-05-23 104448](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/b8142424-b14c-464f-8110-793fcc928627)
 
 The 1st line support agent group has a rating of 3.54, whereas the 2nd line support group has a slightly lower rating of 3.41.
 #
 
 ### Rating by Source
+
 ![Screenshot 2024-05-23 104458](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/9d4a96e4-e87c-4c89-947c-104dae6057f9)
 
 Among different ticket sources, chat has the highest rating of 3.54, followed by email with a rating of 3.51, and phone with the lowest rating of 3.42.
 #
 
 ### Rating by Country
+
 ![Screenshot 2024-05-23 104510](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/de1ed81f-82c8-42e6-b90a-d312fc433c6d)
 
 Poland has the highest overall rating score of 3.64, while Australia has the lowest rating of 3.24.
