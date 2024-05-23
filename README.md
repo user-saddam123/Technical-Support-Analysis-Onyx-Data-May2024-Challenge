@@ -5,6 +5,22 @@
 ### Live Dashboard at Novypro [Live_link_Novypro](https://project.novypro.com/Lj7DNu)
 #
 
+### Table of Content
+ 1. [Objective](#objective)
+ 2. [Dataset Overview](#dataset-overview)
+ 3. [Data Preparation and Cleaning Steps](#data-preparation-and-cleaning-steps)
+ 4. [Dashboard Overview](#dashboard-overview)
+ 5. [Detailed Insights Explanation](#detailed-insights-explanation)
+    * [Section_1: Ticket Volume Trends](#section_1-ticket-volume-trends)
+    * [Section_2: Ticket Content and Resolution](#section_2-ticket-content-and-resolution)
+      * [First Response Time](#investigation-of-first-response-time)
+      * [Ticket Resolution Time](#investigation-of-ticket-resolution-time)
+    * [Section_3 Performance Metrics](#section_3-performance-metrics)
+ 6. [Recommendation](#recommendation)
+ 7. [How this project insights and recomendation Benefits to Stakeholders](#how-this-project-insights-and-recomendation-benefits-to-stakeholders)
+ 8. [My Learnings](#my-learnings-from-the-project)
+ 9. [How you can help me](#how-you-can-help-me)
+ 10. [Bottom](#created-and-presented-by-)
 
 
 ## Objective:
