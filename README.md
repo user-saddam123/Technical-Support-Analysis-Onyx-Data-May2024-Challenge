@@ -1,4 +1,4 @@
-# Technical Support Analysis Onyx Data May2024 Challenge
+![Screenshot 2024-05-23 104116](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/be5a7ecb-5091-480d-a0df-c9ae7ec7d564)# Technical Support Analysis Onyx Data May2024 Challenge
 
 ## Created & Analyzed by Saddam Ansari @Aspiring Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
 
@@ -320,4 +320,94 @@ These findings provide valuable insights into the correlation between ticket top
 
 
 #
+
+# Section_3 Performance Metrics:
+In this section, we will delve into agent performance metrics, along with various other insights.
+
+## Agent Performance:
+For each agent, I've provided detailed insights such as:
+
+ * Agent Name
+ * Total Tickets Received
+ * Ticket Distribution by Status
+ * Average First Response Time (in minutes)
+ * Average Ticket Resolution Time (in hours)
+ * First Response Time and Ticket Resolution Time by Priority
+ * First Response Time and Resolution Time by Ticket Source
+ * Average Rating
+
+These insights are presented in separate sections for each agent, allowing for a comprehensive view of their performance metrics. 
+
+For a more detailed view, please visit the live dashboard or refer to the image provided below.
+👇
+![Screenshot 2024-05-23 103722](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/d6dd8e4f-2ba4-487a-aaba-7d4dcf708e21)
+#
+
+### The overall average rating across all agents
+![Screenshot 2024-05-23 103901](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/bc5552ef-99bd-4029-a84d-a9ebe110637b)
+
+### Percentage of Tickets got First Response within SLA
+![Screenshot 2024-05-23 104116](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/0126c017-c2b5-4568-8998-f84b5fe42022)
+
+The percentage of tickets that received their first response within the Service Level Agreement (SLA) stands at 86.7%. This metric indicates the efficiency of the support team in adhering to response time commitments outlined in the SLA
+#
+
+##3 Percentage of Tickets Resolved Within SLA
+![Screenshot 2024-05-23 104126](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/9707cd9a-0e9d-4c16-b597-7269fe13bb5f)
+
+The analysis reveals that approximately 64.4% of tickets were resolved within the Service Level Agreement (SLA) timeframe. This metric serves as a key indicator of the efficiency and effectiveness of the support team in meeting customer expectations and service standards.
+
+#
+
+### Rating by Topic
+The purpose of this analysis is to determine which topics have the highest customer satisfaction ratings.
+![Screenshot 2024-05-23 104416](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/a67a9b1a-2ee9-46b5-b1ea-01efbb7c74f5)
+
+#### Insights:
+ * Purchasing and Invoicing: This topic has the **highest rating of 3.75 out of 5**, **indicating high customer satisfaction**.
+ * Bug Report: Customers also express satisfaction with the B**ug Report topic, with a rating of 3.55**.
+ * Feature Request: Similarly, Feature Request receives a high rating of **3.54.**
+ * Other: The "Other" topic follows closely with a **rating of 3.49**.
+ * Pricing and Licensing: Customers are generally satisfied with Pricing and Licensing, giving it a** rating of 3.49**.
+ * Training Request: This topic has a respectable rating of** 3.46**.
+ * Product Setup: **Product Setup has the lowest rating** among the topics analyzed, with a **rating of 3.4 out of 5**.
+
+Users can further drill down into the ratings based on product group to gain deeper insights into customer satisfaction levels across topic.
+
+#
+
+### Rating by Support Level
+![Screenshot 2024-05-23 104428](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/b99168a3-fa08-4c40-b5f8-36b124c2408b)
+
+Tier 1 support has a slightly higher rating of 3.54 compared to Tier 2 support, which has a rating of 3.41.
+#
+
+### Rating by Priority
+![Screenshot 2024-05-23 104438](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/bda474fc-766d-48cb-ba94-6b064a6923f0)
+
+High priority tickets have the highest rating of 3.66, followed by medium priority tickets with a rating of 3.54, and low priority tickets with the lowest rating of 3.44.
+#
+
+### Rating by Agent Group
+![Screenshot 2024-05-23 104448](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/b8142424-b14c-464f-8110-793fcc928627)
+
+The 1st line support agent group has a rating of 3.54, whereas the 2nd line support group has a slightly lower rating of 3.41.
+#
+
+### Rating by Source
+![Screenshot 2024-05-23 104458](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/9d4a96e4-e87c-4c89-947c-104dae6057f9)
+
+Among different ticket sources, chat has the highest rating of 3.54, followed by email with a rating of 3.51, and phone with the lowest rating of 3.42.
+#
+
+### Rating by Country
+![Screenshot 2024-05-23 104510](https://github.com/user-saddam123/Technical-Support-Analysis-Onyx-Data-May2024-Challenge/assets/123800896/de1ed81f-82c8-42e6-b90a-d312fc433c6d)
+
+Poland has the highest overall rating score of 3.64, while Australia has the lowest rating of 3.24.
+#
+
+
+
+
+
 
